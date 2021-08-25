@@ -61,7 +61,8 @@
       "icon": "@PROJECT_PATH@/assets/images/slc-logo-512x512.png",
       "themeColor": "#c2b2d6"
     },
-    "chatbutton": false
+    "chatbutton": false,
+    "publishChangesOnly": true
   },
   "pages": {
     "index.html": {
